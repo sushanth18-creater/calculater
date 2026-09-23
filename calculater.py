@@ -13,4 +13,4 @@ elif c == c:
     print("multiplication",a*b)
 else :
     print("division:",a/b)
-print("Thank you for using the calculator")
+print("Thank you for using ")
